@@ -1,0 +1,27 @@
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.exe
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.deps.json
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.runtimeconfig.json
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.runtimeconfig.dev.json
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.dll
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.pdb
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.dll
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.pdb
+C:\Users\Francesco\Desktop\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.genruntimeconfig.cache
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.exe
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.deps.json
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.runtimeconfig.json
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.runtimeconfig.dev.json
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.dll
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\bin\Debug\netcoreapp3.1\Schiffeversenken_Neu.pdb
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.csproj.AssemblyReference.cache
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.GeneratedMSBuildEditorConfig.editorconfig
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.AssemblyInfoInputs.cache
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.AssemblyInfo.cs
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.csproj.CoreCompileInputs.cache
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.dll
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.pdb
+A:\WI20Z1\Programmieren mit C#\PGC\Schiffeversenken_Neu\Schiffeversenken_Neu\obj\Debug\netcoreapp3.1\Schiffeversenken_Neu.genruntimeconfig.cache
